@@ -15,9 +15,9 @@ I add the following additional data analytic features to the dashboard:
 4. Outlier detection:
 <br>Highlight dates where sales significantly deviate from the average.
 
-5. Download Option:
+5. Download option:
 <br>Allow users to download filtered or full sales data as a CSV file.
-<br>
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://salesanalyticdashboard.streamlit.app/)
 
 ### How to run it on your own machine
