@@ -3,8 +3,8 @@
 This is a modification from [Trigger a full-script rerun from inside a fragment](https://docs.streamlit.io/develop/tutorials/execution-flow/trigger-a-full-script-rerun-from-a-fragment).
 
 I add the following additional data analytic features to the dashboard:
-1. Sales Trends Analysis
-Add line charts to visualize sales trends for individual products over time.
+1. Sales Trends Analysis:
+<br>Add line charts to visualize sales trends for individual products over time.
 
 2. Comparison of Products
 Allow users to select multiple products and compare their sales trends side-by-side.
